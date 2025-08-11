@@ -85,16 +85,6 @@ Repo → https://github.com/gramistella/copbot_java
 
 ---
 
-## What I focus on
-- APIs, auth, data models, migrations, testing
-- Bots, scraping, storage, and integrations
-- Taking a blank repo to something deployable
-
-## What I don’t focus on
-- Visual/UI design. Function over style.
-
----
-
 ## Working together
 Open to Rust backend/platform work with small teams.  
 Remote is fine; EU relocation possible. Open to visa sponsorship for other locations. Contract or full-time.
