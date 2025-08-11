@@ -36,6 +36,10 @@ Repo → https://github.com/gramistella/stitch
 
 ## Archived portfolio
 
+<details>
+  <summary><strong>Show archived projects</strong></summary>
+  <br>
+
 ### 📸 instagram-scraper-rs — archived
 Adopted and modified an existing crate to support `repost_rusty`.
 - Session management and request workflow
@@ -76,6 +80,8 @@ First large project.
 - Simple Swing control panel
 
 Repo → https://github.com/gramistella/copbot_java
+
+</details>
 
 ---
 
