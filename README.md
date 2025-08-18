@@ -30,7 +30,7 @@ Context manager for LLM workflows, now rewritten in **Rust + Slint** with a fast
 <details>
   <summary><strong>Show archived projects</strong></summary>
 
-### 🧵 [stitch-py](https://github.com/gramistella/stitch-py) (archived)
+### 🧵 [stitch-py](https://github.com/gramistella/stitch-py)
 Original Python + Tkinter version of **Stitch**.
 - Interactive tree view for selecting project files
 - Filtering and exclusion controls
