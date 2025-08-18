@@ -21,7 +21,7 @@ Context manager for LLM workflows, now rewritten in **Rust + Slint** with a fast
 
 > Earlier repos are archived for reference.
 
-<sub>Note: I update this occasionally; the pinned repos are the most current. Last updated: 2025-08-11.</sub>
+<sub>Note: I update this occasionally; the pinned repos are the most current. Last updated: 2025-08-18.</sub>
 
 ---
 
