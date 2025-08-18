@@ -11,7 +11,7 @@ I’m not a visual/UI designer; I keep UIs minimal and functional. ![](https://h
 
 ### 🧱 [cornerstone](https://github.com/gramistella/cornerstone)
 A practical starter for writing business logic from day one.
-- Rust backend (axum, sqlx) with typed shared code; auth with refresh tokens
+- Rust backend (**axum**, **SQLx**) with typed shared code; auth with refresh tokens
 - Migrations for **SQLite** and **Postgres**
 - Tests, Docker Compose, CI
 - Optional frontends: **Svelte (web)** or **Slint (desktop)**
@@ -29,6 +29,13 @@ Context manager for LLM workflows, now rewritten in **Rust + Slint** with a fast
 
 <details>
   <summary><strong>Show archived projects</strong></summary>
+
+### 🧵 [stitch-py](https://github.com/gramistella/stitch-py) (archived)
+Original Python + Tkinter version of **Stitch**.
+- Interactive tree view for selecting project files
+- Filtering and exclusion controls
+- Context generation for LLM workflows
+- Superseded by the faster, native Rust + Slint rewrite
 
 ### 📸 [instagram-scraper-rs](https://github.com/gramistella/instagram-scraper-rs)
 Adopted and modified an existing crate to support `repost_rusty`.
