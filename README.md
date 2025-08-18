@@ -17,7 +17,7 @@ A practical starter for writing business logic from day one.
 - Optional frontends: **Svelte (web)** or **Slint (desktop)**
 
 ### 🧵 [stitch](https://github.com/gramistella/stitch)
-Small context manager I use with LLM workflows to keep notes and prompts organized.
+Context manager for LLM workflows, now rewritten in **Rust + Slint** with a fast, native UI.
 
 > Earlier repos are archived for reference.
 
