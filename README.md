@@ -9,6 +9,13 @@ I’m not a visual/UI designer; I keep UIs minimal and functional. ![](https://h
 
 ## Active projects
 
+### 💹 [yfinance-rs](https://github.com/gramistella/yfinance-rs)
+Ergonomic Rust client for Yahoo Finance, an async-first rewrite inspired by the popular Python library.
+- Historical prices, real-time streaming, options, fundamentals, and company info
+- Async-first API using **tokio** and **reqwest**
+- High-level `Ticker` interface for ease of use
+- Builder pattern for complex queries
+
 ### 🧱 [cornerstone](https://github.com/gramistella/cornerstone)
 A practical starter for writing business logic from day one.
 - Rust backend (**axum**, **SQLx**) with typed shared code; auth with refresh tokens
@@ -21,7 +28,7 @@ Context manager for LLM workflows, now rewritten in **Rust + Slint** with a fast
 
 > Earlier repos are archived for reference.
 
-<sub>Note: I update this occasionally; the pinned repos are the most current. Last updated: 2025-08-18.</sub>
+<sub>Note: I update this occasionally; the pinned repos are the most current. Last updated: 2025-08-27.</sub>
 
 ---
 
