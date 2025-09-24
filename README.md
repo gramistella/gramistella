@@ -9,6 +9,17 @@ I’m not a visual/UI designer; I keep UIs minimal and functional. ![](https://h
 
 ## Active projects
 
+### 📊 [df-derive](https://github.com/gramistella/df-derive)
+Derive macro that turns your Rust structs into Polars `DataFrame`s—fast, zero-boilerplate.
+- Generates `ToDataFrame` + efficient columnar `[T]` conversion
+- Flattens nested structs; supports `Option`, `Vec`, tuple structs, `DateTime<Utc>`, `Decimal`
+- Schema introspection + `#[df_derive(as_string)]` for enum/string outputs
+
+### 🧮 [paft](https://github.com/paft-rs/paft)
+Provider-agnostic financial types for Rust; a compact foundation for provider adapters.
+- Standardized models (instruments, quotes/candles, money, options, fundamentals)
+- Swap data providers without touching your analysis or app code
+
 ### 💹 [yfinance-rs](https://github.com/gramistella/yfinance-rs)
 Ergonomic Rust client for Yahoo Finance, an async-first rewrite inspired by the popular Python library.
 - Historical prices, real-time streaming, options, fundamentals, and company info
@@ -28,7 +39,7 @@ Context manager for LLM workflows, now rewritten in **Rust + Slint** with a fast
 
 > Earlier repos are archived for reference.
 
-<sub>Note: I update this occasionally; the pinned repos are the most current. Last updated: 2025-08-27.</sub>
+<sub>Note: I update this occasionally; the pinned repos are the most current. Last updated: 2025-09-25.</sub>
 
 ---
 
