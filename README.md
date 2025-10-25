@@ -1,8 +1,7 @@
-Rust-focused engineer. I build backends, pipelines, and small tools that actually run.  
-I’m not a visual/UI designer; I keep UIs minimal and functional. ![](https://hit.yhype.me/github/profile?user_id=60039721)
+Rust engineer building backends, pipelines, and tools; my focus is on functional systems, not visual/UI design. ![](https://hit.yhype.me/github/profile?user_id=60039721)
 
 - Location: Italy
-- Tools: Rust (axum, sqlx, tokio, tower, tracing, utoipa), SQL (Postgres/SQLite), Docker Compose, GitHub Actions, Amazon S3, Python (utilities)
+- Tools: Rust (Axum, Tokio, SQLx, Serde, Polars, Reqwest, Tower, Tracing, Utoipa, Slint), SQL (Postgres, SQLite), Docker Compose, GitHub Actions, Amazon S3, Python (utilities)
 - Contact — Email (relay): [fixable40.bluffer@icloud.com](mailto:fixable40.bluffer@icloud.com)
 
 ---
